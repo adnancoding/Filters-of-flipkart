@@ -1,0 +1,57 @@
+
+export const dataList = [
+  {
+    id: 1,
+    title: 'Full Sleevs T-Shirt',
+    category: 'kid',
+    brand: 'addidas',
+    sizze: 's',
+    price: 2500,
+    coverSrc: '/images/fullsleev.jpg',
+  },
+  {
+    id: 2,
+    title: 'Blazer',
+    category: 'men',
+    brand: 'gucci',
+    sizze: 'l',
+    price: 4000,
+    coverSrc: '/images/blazer.jpg',
+  },
+  {
+    id: 3,
+    title: 'Jeans',
+    category: 'men',
+    brand: 'zara',
+    sizze: 'm',
+    price: 4000,
+    coverSrc: '/images/jeans.jpg',
+  },
+  {
+    id: 4,
+    title: 'Full Sleevs Shirt',
+    category: 'men',
+    brand: 'addidas',
+    sizze: 's',
+    price: 2500,
+    coverSrc: '/images/shirt.jpg',
+  },
+  {
+    id: 5,
+    title: 'Cap',
+    category: 'men',
+    brand: 'zara',
+    sizze: 'l',
+    price: 1000,
+    coverSrc: '/images/cap.jpg',
+  },
+  {
+    id: 6,
+    title: 'Jacket',
+    category: 'women',
+    brand: 'addidas',
+    sizze: 's',
+    price: 2500,
+    coverSrc: '/images/jacket.jpg',
+  }
+];
